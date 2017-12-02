@@ -1,5 +1,3 @@
----
- 
 - name: GET STRUCTURED DATA BACK FROM CLI DEVICES
   hosts: cisco_ios
   connection: local
